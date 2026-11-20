@@ -7,7 +7,7 @@
 window.WEDDING = {
   /* Tanggal dan jam acara. Format ISO dengan zona waktu +07:00 (WIB).
      Dipakai untuk hitungan mundur dan tombol Simpan Tanggal. */
-  dateISO: "2026-12-03T09:30:00+07:00",
+  dateISO: "2026-12-03T08:30:00+07:00",
   calendarEndISO: "2026-12-03T15:00:00+07:00",
 
   /* Teks tanggal yang tampil di halaman.
