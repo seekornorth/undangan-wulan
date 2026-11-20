@@ -30,12 +30,12 @@ window.WEDDING = {
 
   /* Tombol Simpan Tanggal (Google Calendar) */
   calendarTitle: "Pernikahan Tri Wulandari & Mifthakhul Huda",
-  calendarDetails: "Akad nikah 09.30 WIB, resepsi 14.00 WIB. Dukuh Gajihan, RT 009/RW 004, Desa Ngablak, Kecamatan Wonosamodro, Boyolali.",
+  calendarDetails: "Akad nikah 08.30 WIB, resepsi 14.00 WIB. Dukuh Gajihan, RT 009/RW 004, Desa Ngablak, Kecamatan Wonosamodro, Boyolali.",
 
   /* Nomor WhatsApp untuk RSVP: 62 + nomor tanpa 0 di depan.
      Biarkan kosong sampai nomor asli tersedia. Tombol akan
      menampilkan peringatan, bukan membuka nomor yang salah. */
-  rsvpWhatsapp: "6282121148783",
+  rsvpWhatsapp: "+6281392146739",
 
   /* Hadiah. Ganti nomor rekening di bawah. Selama masih ada tanda [ ],
      tombol salin dinonaktifkan agar tamu tidak menyalin data yang belum jadi. */
